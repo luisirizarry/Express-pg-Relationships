@@ -1,0 +1,26 @@
+{
+  "name": "express-pg-intro-demo",
+  "version": "1.0.0",
+  "description": "m2m demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "luis irizarry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisirizarry/Express-pg-Relationships.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisirizarry/Express-pg-Relationships/issues"
+  },
+  "homepage": "https://github.com/luisirizarry/Express-pg-Relationships#readme"
+}
